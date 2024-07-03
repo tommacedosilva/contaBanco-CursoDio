@@ -1,7 +1,7 @@
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        double saldo = 25;
-        double valorSolicitado = 18;
+        double saldo = 15;
+        double valorSolicitado = 22;
 
         if (saldo > valorSolicitado) {
             saldo = saldo - valorSolicitado;            
